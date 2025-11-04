@@ -94,3 +94,31 @@ header {
     font-weight:700 ;
     padding: 10px 40px;
 }
+
+.secTwoHead{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box{
+    width: 150px;
+}
+
+.secTwoImg{
+    border: 2px #00f solid;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.secTwoPar{
+    text-align: center;
+    /* margin: 0; */
+}
