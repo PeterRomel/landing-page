@@ -113,7 +113,7 @@ header {
 }
 
 .secTwoImg{
-    border: 2px #00f solid;
+    border: 2px #3882f6 solid;
     height: 150px;
     border-radius: 10px;
 }
@@ -121,4 +121,17 @@ header {
 .secTwoPar{
     text-align: center;
     /* margin: 0; */
+}
+
+.secThree{
+    background-color: #e5e7e8;
+    padding-block: 100px;
+    margin-block: 100px;
+    padding-inline: 250px;
+}
+
+.secThreePar{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
 }
